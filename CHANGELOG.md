@@ -78,6 +78,10 @@
   and which are not.  
   [ZevEisenberg](https://github.com/ZevEisenberg)
   [#3040](https://github.com/realm/SwiftLint/pull/3040)
+* Add `allow_multiline_func` configuration option to `opening_brace` rule, to
+  allow placing `{` on new line in case of multiline function. Default to `false`  
+  [Zsolt Kovács](https://github.com/lordzsolt)
+  [#1921](https://github.com/realm/SwiftLint/issues/1921)
 
 * Introduce a new `SyntaxRule` that enables writing rules using
   [SwiftSyntax](https://github.com/apple/swift-syntax).  
