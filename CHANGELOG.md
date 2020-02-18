@@ -42,7 +42,10 @@
 
 #### Enhancements
 
-* None.
+* Extend `empty_enum_arguments` rule to support `if case` and `guard case`
+  [Zsolt Kovács](https://github.com/lordzsolt)
+  [#3103](https://github.com/realm/SwiftLint/issues/3103)
+
 
 #### Bug Fixes
 
